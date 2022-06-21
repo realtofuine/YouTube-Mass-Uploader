@@ -4,7 +4,7 @@ import os
 folderdir = 'Enter directory name here'
  
 # giving file extensions that you want to search for, such as .mp4, .mkv, etc.
-ext = ('.mp4')
+ext = ('.mp4', '.mkv')
 
 
 # iterating over directory and subdirectory to get files
