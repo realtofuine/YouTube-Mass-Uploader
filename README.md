@@ -1,6 +1,8 @@
 # YouTube-Mass-Uploader
 Quickly upload all files in a folder to YouTube
 
+### THE MAX NUMBER OF VIDEOS YOU CAN UPLOAD USING THIS PER DAY IS 6. This is because of the YouTube Data API Quota.
+
 Take a look at this:
 https://developers.google.com/youtube/v3/guides/uploading_a_video
 
